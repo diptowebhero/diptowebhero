@@ -1,5 +1,3 @@
-![I am Dipto Das](https://github.com/diptowebhero/diptowebhero/blob/main/Saly-13.png)
-
 
 <h1 align="center">Hi 👋, I'm Dipto Das</h1>
 <h3 align="center">A Passionate front-end developer from Bangladesh</h3>
