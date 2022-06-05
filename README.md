@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dipto Das</h1>
-<h3 align="center">A Passionate front-end developer from Bangladesh</h3>
+<h3 align="center">Learner</h3>
 
 ![Profile views](https://gpvc.arturio.dev/diptowebhero) 
 
