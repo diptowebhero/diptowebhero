@@ -10,7 +10,7 @@ Knock me: https://www.facebook.com/dipto.das.52438
 Skills:  BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
  
 
-- 🌱 I’m currently learning **JS, React**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diptowebhero](https://github.com/diptowebhero)
 
