@@ -7,7 +7,7 @@
 
 <br />
 
-[<p align="center">[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://web.facebook.com/developer.dipto.das.10/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"> </p>](https://www.linkedin.com/in/dipto-das-617901216/)
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://web.facebook.com/developer.dipto.das.10/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"> </p>](https://www.linkedin.com/in/dipto-das-617901216/)
 
 <br />
 
