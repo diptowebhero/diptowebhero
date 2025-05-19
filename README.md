@@ -42,5 +42,4 @@
 
 
 ### 🔭 I’m working - with React - Next JS. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
 ### 👨‍💻 All of my projects are available at https://dev-dipto.vercel.app/
